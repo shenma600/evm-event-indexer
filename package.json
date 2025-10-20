@@ -1,0 +1,13 @@
+{
+  "name": "evm-event-indexer",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.13.1",
+    "yargs": "^17.7.2"
+  },
+  "scripts": {
+    "start": "node src/cli.js --help"
+  }
+}
